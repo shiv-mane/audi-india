@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/audi-india/static/css/main.b5bc387e.css",
+    "main.js": "/audi-india/static/js/main.9036c8c7.js",
+    "static/media/heroBackground3.png": "/audi-india/static/media/heroBackground3.7cf7d531df331b04d34d.png",
+    "static/media/AudiHead1.png": "/audi-india/static/media/AudiHead1.b7e7306bd315703f56da.png",
+    "static/media/heroBackground5.png": "/audi-india/static/media/heroBackground5.ef98b9d008cba474c4db.png",
+    "static/media/imageBackground7.png": "/audi-india/static/media/imageBackground7.1fa760b1ef5a420eba2d.png",
+    "index.html": "/audi-india/index.html",
+    "main.b5bc387e.css.map": "/audi-india/static/css/main.b5bc387e.css.map",
+    "main.9036c8c7.js.map": "/audi-india/static/js/main.9036c8c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5bc387e.css",
+    "static/js/main.9036c8c7.js"
+  ]
+}
